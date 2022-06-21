@@ -1,5 +1,5 @@
 # Spring Native Application
-
+[![Generate Executable](https://github.com/diogoalbuquerque/native-person-api/actions/workflows/generate-artifact.yml/badge.svg)](https://github.com/diogoalbuquerque/native-person-api/actions/workflows/generate-artifact.yml)
 ## Person API
 
 API for create and find people.
